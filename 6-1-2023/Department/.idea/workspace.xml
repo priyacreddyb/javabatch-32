@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3205956c-ff6d-47db-944a-f80805c8f078" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/DepartmentAbstract.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SubDepartment.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../src/Student.java" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Product/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,7 +34,7 @@
     "OverrideImplement.generate.javadoc": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/priya/javabatch-32/6-1-2023/Department",
+    "last_opened_file_path": "C:/Users/priya/javabatch-32/6-1-2023/Product",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2"
