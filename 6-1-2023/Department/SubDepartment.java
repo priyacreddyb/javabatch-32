@@ -1,7 +1,7 @@
-public class SubDepartment extends DepartmentAbstract {
+ class SubDepartment extends DepartmentAbstract {
 
   public int DepartmentSize;
-    public SubDepartment(int DepartmentSize){
+    public SubDepartment(){
         this.DepartmentSize=DepartmentSize;
     }
     @Override
@@ -9,10 +9,4 @@ public class SubDepartment extends DepartmentAbstract {
         return 27;
     }
 
-    public static void main(String[] args) {
-
-        SubDepartment subDepartment=new SubDepartment();
-        int DepartmentSize=subDepartment.getDepartmentSize();
-
-    }
 }
