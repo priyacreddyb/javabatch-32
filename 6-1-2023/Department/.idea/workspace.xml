@@ -2,7 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3205956c-ff6d-47db-944a-f80805c8f078" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../RuntimePolymorphism/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RuntimePolymorphism/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RuntimePolymorphism/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RuntimePolymorphism/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RuntimePolymorphism/RuntimePolymorphism.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RuntimePolymorphism/ChildClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/../RuntimePolymorphism/ChildClass.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
