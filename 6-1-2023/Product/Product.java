@@ -11,6 +11,7 @@ public class Product {
     }
 
     public double getPrice(int Quantity){
-      return price;
+
+      return price*Quantity;
     }
 }
