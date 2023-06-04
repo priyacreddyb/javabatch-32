@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/RuntimePolymorphism.iml" filepath="$PROJECT_DIR$/.idea/RuntimePolymorphism.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaCisTech.iml" filepath="$PROJECT_DIR$/JavaCisTech.iml" />
     </modules>
   </component>
 </project>
