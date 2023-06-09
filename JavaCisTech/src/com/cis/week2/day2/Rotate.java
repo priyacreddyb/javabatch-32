@@ -5,13 +5,15 @@ public class Rotate {
         int[] y={2,3,6,1,46,24,87};
         int N=y.length;
         int shift=2;
+
         for(int i=0;i<N;i++) {
             if (i < N - shift) {
-                System.out.println(y[i + shift]);
+                System.out.print(y[i + shift]+",");
+
             }
         }
         for(int i=0;i<shift;i++){
-            System.out.println(y[i]);
+            System.out.print(y[i]);
         }
     }
 }
